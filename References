@@ -1,0 +1,54 @@
+Not a complete list of everything referenced in preparation for this talk.  These are the ones that I remembered to document.
+
+
+Driver Specific Analysis 
+------------------------
+AuKill - https://news.sophos.com/en-us/2023/04/19/aukill-edr-killer-malware-abuses-process-explorer-driver/ 
+Beep.sys (2009) - https://nakedsecurity.sophos.com/2009/07/31/beep-dont/ 
+Daxin - https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/daxin-backdoor-espionage 
+Eternal* - https://blogs.blackberry.com/en/2017/08/threat-spotlight-the-shadow-brokers-and-eternalpulsar-malware 
+Genshin Driver 
+    https://www.trendmicro.com/en_us/research/22/h/ransomware-actor-abuses-genshin-impact-anti-cheat-driver-to-kill-antivirus.html 
+    https://asec.ahnlab.com/en/47088/ 
+HP Omen - https://www.sentinelone.com/labs/cve-2021-3437-hp-omen-gaming-hub-privilege-escalation-bug-hits-millions-of-gaming-devices/ 
+INVISIMOLE - https://www.welivesecurity.com/wp-content/uploads/2020/06/ESET_InvisiMole.pdf 
+Scattered Spider - https://www.crowdstrike.com/blog/scattered-spider-attempts-to-avoid-detection-with-bring-your-own-vulnerable-driver-tactic/ 
+Shamoon - https://securelist.com/shamoon-the-wiper-further-details-part-ii/57784/ 
+Slingshot - https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2018/03/09133534/The-Slingshot-APT_report_ENG_final.pdf 
+WannaCrypt - https://www.microsoft.com/en-us/security/blog/2017/06/30/exploring-the-crypt-analysis-of-the-wannacrypt-ransomware-smb-exploit-propagation/ 
+ 
+
+BYOVD But Not Driver Specific Analysis 
+---------------------------------------
+https://blogs.vmware.com/security/2023/04/bring-your-own-backdoor-how-vulnerable-drivers-let-hackers-in.html?utm_source=rss&utm_medium=rss&utm_campaign=bring-your-own-backdoor-how-vulnerable-drivers-let-hackers-in 
+https://www.welivesecurity.com/2022/01/11/signed-kernel-drivers-unguarded-gateway-windows-core/ 
+https://www.splunk.com/en_us/blog/security/these-are-the-drivers-you-are-looking-for-detect-and-prevent-malicious-drivers.html 
+Good list of vulnerable drivers - https://www.rapid7.com/blog/post/2021/12/13/driver-based-attacks-past-and-present/ 
+Rootkits - https://www.cyberark.com/resources/threat-research-blog/fantastic-rootkits-and-where-to-find-them-part-1 
+Sliver & BYOVD - https://www.bleepingcomputer.com/news/security/hackers-backdoor-windows-devices-in-sliver-and-byovd-attacks/ 
+
+
+GitHubs 
+-------
+Uses mhyprot2 to kill processes https://github.com/kagurazakasanae/Mhyprot2DrvControl 
+Sliver:adversary emulation/red team framework - https://github.com/BishopFox/sliver 
+Boot Time Patch Guard & DSE Bypass - https://github.com/Mattiwatti/EfiGuard 
+Eternal Blue in Python - https://gist.github.com/worawit/05105fce9e126ac9c85325f0b05d6501 
+ 
+
+Lists of Drivers 
+----------------
+https://www.loldrivers.io/ 
+ 
+
+News 
+----
+https://www.malwarebytes.com/blog/news/2022/10/microsoft-fixes-driver-blocklist-placing-users-at-risk-from-byovd-attacks 
+
+ 
+
+ 
+
+ 
+
+ 
